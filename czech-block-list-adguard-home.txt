@@ -48,6 +48,9 @@
 0.0.0.0 a.seznam.cz
 0.0.0.0 ssp.seznam.cz
 0.0.0.0 50.c-oa.imedia.cz
+0.0.0.0 c-oa.imedia.cz
+0.0.0.0 55.onegar-oa.imedia.cz
+0.0.0.0 onegar-oa.imedia.cz
 0.0.0.0 imedia.cz
 0.0.0.0 idnes.bbelements.com
 0.0.0.0 img.motorkari.cz
