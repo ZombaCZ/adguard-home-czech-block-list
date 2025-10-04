@@ -54,6 +54,8 @@
 0.0.0.0 40.onegar-ng.imedia.cz
 0.0.0.0 onegar-ng.imedia.cz
 0.0.0.0 imedia.cz
+0.0.0.0 ssp.im.cz
+0.0.0.0 im.cz
 0.0.0.0 idnes.bbelements.com
 0.0.0.0 img.motorkari.cz
 0.0.0.0 incorp.media
