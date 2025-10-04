@@ -38,6 +38,7 @@ go.eu.bbelements.com
 go.idnes.bbelements.com
 googleads.g.doubleclick.net
 googleadservices.com
+grapemedia.cz
 hit.gemius.pl
 hpxs.xsd.cz
 iinfo.cz
