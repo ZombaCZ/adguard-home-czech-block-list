@@ -46,6 +46,7 @@
 0.0.0.0 imgur.com
 0.0.0.0 i.seznam.cz
 0.0.0.0 a.seznam.cz
+0.0.0.0 c.seznam.cz
 0.0.0.0 ssp.seznam.cz
 0.0.0.0 50.c-oa.imedia.cz
 0.0.0.0 c-oa.imedia.cz
@@ -53,7 +54,14 @@
 0.0.0.0 onegar-oa.imedia.cz
 0.0.0.0 40.onegar-ng.imedia.cz
 0.0.0.0 onegar-ng.imedia.cz
+0.0.0.0 1.onegar-oa.imedia.cz
+0.0.0.0 3.onegar-oa.imedia.cz
+0.0.0.0 39.onegar-ko.imedia.cz
+0.0.0.0 38.onegar-ko.imedia.cz
+0.0.0.0 onegar-ko.imedia.cz
 0.0.0.0 imedia.cz
+0.0.0.0 d49-a.sdn.cz
+0.0.0.0 sdn.cz
 0.0.0.0 ssp.im.cz
 0.0.0.0 im.cz
 0.0.0.0 idnes.bbelements.com
