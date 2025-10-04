@@ -1,71 +1,71 @@
-10.im.cz
-2mdn.net
-a.1gr.cz
-a.blesk.cz
-a.cele.cz
-a.denik.cz
-a.iprima.cz
-a.slunecnice.cz
-ad.digineff.cz
-adclick.g.doubleclick.net
-adcz.hit.gemius.pl
-ads.revjet.com
-affiliate.heureka.cz
-aimatch.com
-ams.creativecdn.com
-ams1-ib.adnxs.com
-app-tydenik.echomedia.cz
-assets.scoota.co
-b.cdnst.net
-bbcdn.go.ibillboard.bbelements.com
-bit.ly
-c.seznam.cz
-cat.fr.eu.criteo.com
-cat.nl.eu.criteo.com
-cdn.i0.cz
-crcdn01.adnxs.com
-creativecdn.com
-cz.adocean.pl
-cz.search.etargetnet.com
-czgde.adocean.pl
-d25-a.sdn.cz
-d49-a.sdn.cz
-d49-a.sdn.szn.cz
-fra1-ib.adnxs.com
-g.doubleclick.net
-go.cz.bbelements.com
-go.eu.bbelements.com
-go.idnes.bbelements.com
-googleads.g.doubleclick.net
-googleadservices.com
-grapemedia.cz
-hit.gemius.pl
-hpxs.xsd.cz
-iinfo.cz
-imedia.cz
-imgur.com
-i.seznam.cz
-a.seznam.cz
-idnes.bbelements.com
-img.motorkari.cz
-incorp.media
-insight.adsrvr.org
-mdc.pliing.com
-openads.aira.cz
-pagead2.googlesyndication.com
-pix.eu.criteo.net
-r.favi.cz
-s0.2mdn.net
-s1.adform.net
-secure-ds.serving-sys.com
-securepubads.g.doubleclick.net
-smsexshop.cz
-tpc.googlesyndication.com
-track.adform.net
-trends.revcontent.com
-utm_medium
-www.afgr2.com
-www.googlesyndication.com
-www.nov1215in1215ky.cz
-www.richmedia.cz
-zdstatic.speedtest.net
+0.0.0.0 10.im.cz
+0.0.0.0 2mdn.net
+0.0.0.0 a.1gr.cz
+0.0.0.0 a.blesk.cz
+0.0.0.0 a.cele.cz
+0.0.0.0 a.denik.cz
+0.0.0.0 a.iprima.cz
+0.0.0.0 a.slunecnice.cz
+0.0.0.0 ad.digineff.cz
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 adcz.hit.gemius.pl
+0.0.0.0 ads.revjet.com
+0.0.0.0 affiliate.heureka.cz
+0.0.0.0 aimatch.com
+0.0.0.0 ams.creativecdn.com
+0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 app-tydenik.echomedia.cz
+0.0.0.0 assets.scoota.co
+0.0.0.0 b.cdnst.net
+0.0.0.0 bbcdn.go.ibillboard.bbelements.com
+0.0.0.0 bit.ly
+0.0.0.0 c.seznam.cz
+0.0.0.0 cat.fr.eu.criteo.com
+0.0.0.0 cat.nl.eu.criteo.com
+0.0.0.0 cdn.i0.cz
+0.0.0.0 crcdn01.adnxs.com
+0.0.0.0 creativecdn.com
+0.0.0.0 cz.adocean.pl
+0.0.0.0 cz.search.etargetnet.com
+0.0.0.0 czgde.adocean.pl
+0.0.0.0 d25-a.sdn.cz
+0.0.0.0 d49-a.sdn.cz
+0.0.0.0 d49-a.sdn.szn.cz
+0.0.0.0 fra1-ib.adnxs.com
+0.0.0.0 g.doubleclick.net
+0.0.0.0 go.cz.bbelements.com
+0.0.0.0 go.eu.bbelements.com
+0.0.0.0 go.idnes.bbelements.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 grapemedia.cz
+0.0.0.0 hit.gemius.pl
+0.0.0.0 hpxs.xsd.cz
+0.0.0.0 iinfo.cz
+0.0.0.0 imedia.cz
+0.0.0.0 imgur.com
+0.0.0.0 i.seznam.cz
+0.0.0.0 a.seznam.cz
+0.0.0.0 idnes.bbelements.com
+0.0.0.0 img.motorkari.cz
+0.0.0.0 incorp.media
+0.0.0.0 insight.adsrvr.org
+0.0.0.0 mdc.pliing.com
+0.0.0.0 openads.aira.cz
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pix.eu.criteo.net
+0.0.0.0 r.favi.cz
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s1.adform.net
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 smsexshop.cz
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 track.adform.net
+0.0.0.0 trends.revcontent.com
+0.0.0.0 utm_medium
+0.0.0.0 www.afgr2.com
+0.0.0.0 www.googlesyndication.com
+0.0.0.0 www.nov1215in1215ky.cz
+0.0.0.0 www.richmedia.cz
+0.0.0.0 zdstatic.speedtest.net
